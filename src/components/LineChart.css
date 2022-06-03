@@ -1,0 +1,8 @@
+.linechart_path {
+  stroke-width: 3;
+  fill: none;
+}
+
+svg{
+  border: #000000 solid;
+}
